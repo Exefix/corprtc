@@ -1,0 +1,11 @@
+{
+    "twoCaptcha": "86da93ec7415a0ce541a693e29db592c",
+    "accounts": [
+        {
+            "username": "25nv",
+            "authToken": "333cf1a0564bddf9786abb475bda9d6c030d776f33f0cdbb808f83c186e62221a93467c5b03fbe92a4578440f05f44b5bade8c247347eefc49edc4f90a8d116f",
+            "session": "s%3AMYRvzfA-qU_YXRUIxv_uXS2Z8OXWUKUG.vvrzYiUD1IKRYIh92iGDyJ5H6xuc4fSP1cB%2BGWkJq0A",
+            "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+        }
+    ]
+}
